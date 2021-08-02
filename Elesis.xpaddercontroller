@@ -1,0 +1,21 @@
+;------------------------
+; Xpadder Controller File
+;------------------------
+
+Version=5.7
+
+[Button Locations]
+Button5Location=136,96
+Button6Location=166,96
+Button7Location=196,96
+Button8Location=228,95
+
+[Access]
+
+[Names]
+Button5Name=Button 5
+Button6Name=Button 6
+Button7Name=Button 7
+Button8Name=Button 8
+
+[Image]
